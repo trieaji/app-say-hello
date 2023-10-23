@@ -1,2 +1,6 @@
 github.com/trieaji/go-say-hello v1.0.0 h1:y6yOEOxcyAhaRFQIAJbwpFFUNTcFKjcfcW9aLVdmc+c=
 github.com/trieaji/go-say-hello v1.0.0/go.mod h1:n2cBwen9f9UgEj0Zf85hb1tdq0/k+HH8UA2CS+58wQw=
+github.com/trieaji/go-say-hello/v2 v2.0.0 h1:h33/+wtDamZwyxFJrqTRBa3/DLxXi8CjVFFxB4fcg5g=
+github.com/trieaji/go-say-hello/v2 v2.0.0/go.mod h1:4fKiwHlhbqyHvN2N1u2q12uaQonkjq+EyRnJfHE7XaQ=
+github.com/trieaji/go-say-hello/v3 v3.0.0 h1:/1cJizAHQ4Ird9qrmocgDJVafKI2E7khw58LxV2noBM=
+github.com/trieaji/go-say-hello/v3 v3.0.0/go.mod h1:R+CnMkCz7gevQk2gNTaDDjjifHOk6CIJKp9PjWznBIU=
